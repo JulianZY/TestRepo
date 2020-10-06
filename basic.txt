@@ -1,6 +1,6 @@
 why do this?
 i wanna go outside
-hhhhhhhhh
+hhhhhhhhh + test stash
 once more:wq
 add more words
 add more words 2
