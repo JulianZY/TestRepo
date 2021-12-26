@@ -11,4 +11,6 @@ rebase test commit X1 on dev1231
 rebase test r1 on dev1231
 rebase r1 on dev123
 rebase r2 on dev123 push
-rebase r2 on dev123 push2rebase r2 on dev1231 push
+rebase r2 on dev123 push2
+rebase r2 on dev1231 push
+rebase r2 on dev1231 commit
