@@ -14,3 +14,4 @@ rebase r2 on dev123 push
 rebase r2 on dev123 push2
 rebase r2 on dev1231 push
 rebase r2 on dev1231 commit
+rebase r2 on dev1231 stash
